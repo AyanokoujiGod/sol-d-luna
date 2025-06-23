@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Sol D' Luna</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #fefefe;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      color: #8B0000;
+    }
+    p {
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+  <h1>Bienvenido a Sol D' Luna</h1>
+  <p>Muy pronto verás nuestra tienda online aquí.</p>
+</body>
+</html>
